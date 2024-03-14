@@ -1,6 +1,9 @@
 # React Styled Slider
 **React Styled Slider** is a react and styled component slider. It is fully configurable.
 
+
+Swiper
+
 [![Build Status](https://travis-ci.org/ItsMrAkhil/react-styled-carousel.svg?branch=master)](https://travis-ci.org/ItsMrAkhil/react-styled-carousel)
 [![Coverage Status](https://coveralls.io/repos/github/ItsMrAkhil/react-styled-carousel/badge.svg?branch=coveralls)](https://coveralls.io/github/ItsMrAkhil/react-styled-carousel?branch=coveralls)
 
